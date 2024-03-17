@@ -1,0 +1,97 @@
+[
+    {
+        "recipe_img": "https://i.ibb.co/PrMR212/Lime-1152858-1280.jpg",
+        "recipe_id": 1,
+        "recipe_name": "BBQ gril chicken",
+        "short_description": "Classic Italian pasta dish with creamy egg sauce, crispy pancetta, and Parmesan cheese.",
+        "ingredients": [
+        "400 g spaghetti",
+         "150 g pancetta",
+          "3 eggs",
+           "100 g grated Parmesan cheese"],
+        "preparing_time": 25,
+        "calories": 450
+    },
+    {
+        "recipe_img": "https://i.ibb.co/Z1019xY/Wings-4003652-1280.jpg",
+        "recipe_id": 2,
+        "recipe_name": "BBQ chicken wings",
+        "short_description": "Juicy chicken glazed in savory teriyaki sauce, served with steamed rice.",
+        "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom"],
+        "preparing_time": 30,
+        "calories": 320
+    },
+    {
+        "recipe_img": "https://i.ibb.co/yXF3t7m/Pizza-3007395-1280.jpg",
+        "recipe_id": 3,
+        "recipe_name": "Vegetable pizza with chicken",
+        "short_description": "Aromatic and flavorful curry packed with assorted vegetables and spices.",
+        "ingredients": ["300 g mixed vegetables", "200 ml coconut milk", "100 g curry paste", "1 onion"],
+        "preparing_time": 40,
+        "calories": 280
+    },
+    
+    {
+        "recipe_img": "https://i.ibb.co/JCpjDC5/Top-view-broken-chocolate-heart-with-copy-space.jpg",
+        "recipe_id": 4,
+        "recipe_name": "Broken heart chocolate",
+        "short_description": "A classic Greek salad with crisp lettuce, tomatoes, cucumbers, olives, and feta cheese.",
+        "ingredients": ["1 cucumber", "2 tomatoes", "100 g feta cheese", "50 g Kalamata olives"],
+        "preparing_time": 20,
+        "calories": 250
+    },
+    {
+        "recipe_img": "https://i.ibb.co/cy6gqgd/Dark-chocolate-truffles-close-up.jpg",
+        "recipe_id": 5,
+        "recipe_name": "Dark chocolate",
+        "short_description": "Layers of pasta, rich meat sauce, creamy cheese, baked to perfection.",
+        "ingredients": ["500 g lasagna noodles", "400 g ground beef", "500 ml tomato sauce", "300 g ricotta cheese"],
+        "preparing_time": 60,
+        "calories": 380
+    },
+    {
+        "recipe_img": "https://i.ibb.co/HN8FG7J/High-angle-burgers-with-fries-sauce-beer-with-copy-space.jpg",
+        "recipe_id": 6,
+        "recipe_name": "Souses Beef Burger",
+        "short_description": "Decadent chocolate cake with a moist, fluffy texture and rich chocolate frosting.",
+        "ingredients": ["200 g all-purpose flour", "200 g sugar", "100 g cocoa powder", "150 g butter"],
+        "preparing_time": 50,
+        "calories": 300
+    },
+    {
+        "recipe_img": "https://i.ibb.co/bBmWH7W/Burger-black.jpg",
+        "recipe_id": 7,
+        "recipe_name": "Burger Garlic Chicken",
+        "short_description": "Tender chicken breasts marinated in zesty lemon and garlic, grilled to perfection.",
+        "ingredients": ["4 chicken breasts", "2 lemons", "4 cloves garlic", "50 ml olive oil"],
+        "preparing_time": 35,
+        "calories": 280
+    },
+    {
+        "recipe_img": "https://i.ibb.co/rp4L8q7/Sandwich-tomatoes-coffee-cup-with-leaves-black-background.jpg",
+        "recipe_id": 8,
+        "recipe_name": "Sandwich Salad",
+        "short_description": "Classic Caesar salad with crisp romaine lettuce, crunchy croutons, and tangy Caesar dressing.",
+        "ingredients": ["1 head romaine lettuce", "100 g croutons", "50 g grated Parmesan cheese", "60 ml Caesar dressing"],
+        "preparing_time": 15,
+        "calories": 210
+    },
+    {
+        "recipe_img": "https://i.ibb.co/qkG2Szy/Italian-food-concept-with-space-middle.jpg",
+        "recipe_id": 9,
+        "recipe_name": "Beef Stew",
+        "short_description": "Hearty beef stew with tender chunks of meat, potatoes, carrots, and flavorful broth.",
+        "ingredients": ["500 g beef stew meat", "3 potatoes", "2 carrots", "1 onion"],
+        "preparing_time": 120,
+        "calories": 350
+    },
+    {
+        "recipe_img": "https://i.ibb.co/51hrXVL/Top-view-frame-with-food-copy-space.jpg",
+        "recipe_id": 10,
+        "recipe_name": "Apple Pie",
+        "short_description": "Classic apple pie with a flaky crust, sweet cinnamon-spiced apples, and a golden brown topping.",
+        "ingredients": ["6 apples", "200 g flour", "100 g butter", "100 g sugar"],
+        "preparing_time": 70,
+        "calories": 280
+    }
+]
